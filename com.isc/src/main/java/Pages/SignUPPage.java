@@ -52,7 +52,7 @@ public class SignUPPage extends	AppDrivers
 		address.clear();
 		address.sendKeys(addr);
 	}
-	public void enterlCity(String ct)
+	public void enterCity(String ct)
 	{
 		city.clear();
 		city.sendKeys(ct);
